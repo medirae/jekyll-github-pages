@@ -1,11 +1,11 @@
 meta:
-  title: franrose 
+  title: medirae 
   description: Dynamic and customizable jekyll theme
 
 user:
   username-prefix: its
-  username: '<span style="color: #4c6349;">f</span>ran<span style="color: #4c6349;">r</span>ose'
-  name: Mehdi Rafee
+  username: '<span style="color: #4c6349;">m</span>edi<span style="color: #4c6349;">r</span>ae'
+  name: Medi Rafiei
   short-description: '<span style="color: #d1443d;">enthusiastic</span> • <span style="color: #e38b3d;">adventurous</span>'
   title: programmer
 
@@ -21,4 +21,4 @@ footer:
   quote: 'Never give up without a fight. <span style="color: #857676;">&General Iroh</span>'
 
 theme: jekyll-github-pages
-theme-version: 0.1.12
+theme-version: 0.1.13

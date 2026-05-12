@@ -6,10 +6,10 @@ Gem::Specification.new do |spec|
   spec.name          = "jekyll-github-pages"
   spec.version = Jekyll::GithubPages::VERSION
   spec.required_ruby_version = ">= 3.3.6"
-  spec.authors       = ["Francis Rosinante"]
-  spec.email         = ["francis.rosinante@gmail.com"]
+  spec.authors       = ["Medi Rafiei"]
+  spec.email         = ["mrafee113@gmail.com"]
   spec.summary       = "This is a custom jekyll theme originally intended for my various github pages use"
-  spec.homepage      = "https://github.com/itsfranrose/jekyll-github-pages"
+  spec.homepage      = "https://github.com/medirae/jekyll-github-pages"
   spec.license       = "MIT"
 
   spec.files = Dir.glob([

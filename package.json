@@ -8,7 +8,7 @@
     "build": "gulp build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Francis Rosinante <francis.rosinante@gmail.com>",
+  "author": "Medi Rafiei <mrafee113@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "axios": "^1.6.0",

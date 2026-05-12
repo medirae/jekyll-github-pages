@@ -1,9 +1,9 @@
 # Jekyll Resume Theme
 
-Live demo at [my github page](https://itsfranrose.github.io)
+Live demo at [my github page](https://medirae.github.io)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsfranrose/jekyll-github-pages/refs/heads/main/Screenshot.png" width="90%" />
+  <img src="https://raw.githubusercontent.com/medirae/jekyll-github-pages/refs/heads/main/Screenshot.png" width="90%" />
 </p>
 
 # Quick Setup
